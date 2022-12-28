@@ -1,0 +1,20 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "Aprender JS Básico",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ieduardoms/obc--JS-Basico.git"
+  },
+  "author": "Eduardo Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ieduardoms/obc--JS-Basico/issues"
+  },
+  "homepage": "https://github.com/ieduardoms/obc--JS-Basico#readme"
+}
